@@ -1,2 +1,3 @@
 # gauss
-Demonstrando a distribuição com utilizando o método random do Java.
+Demonstrando a distribuição utilizando o método random do Java.
+Arnon Tillmann - Blumenau/SC
